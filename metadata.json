@@ -1,0 +1,5 @@
+{
+  "name": "AyurConnect - Ayurvedic Consultation Platform",
+  "description": "An MVP platform for users to discover, book, and manage consultations with Ayurvedic doctors. Features include doctor discovery by specialization, real-time slot booking with a temporary lock, and an appointment dashboard for viewing and rescheduling.",
+  "requestFramePermissions": []
+}

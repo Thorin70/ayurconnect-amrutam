@@ -47,6 +47,10 @@
 3. Start the development server:
    ```bash
    npm run dev
+   ```
+
+## Project Live Here
+https://ayurconnect.netlify.app/#/discover:
 
 ## Project Structure
 - `components/` — UI components (navbar, cards, calendar, etc.)
